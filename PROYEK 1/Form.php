@@ -44,8 +44,8 @@ $ar_bmi = [$bmipasien1];
     <label for="gender" class="col-3 col-form-label">Gender</label> 
     <div class="col-8">
       <select id="gender" name="gender" class="custom-select">
-        <option value="L">Perempuan</option>
-        <option value="P">Laki-laki</option>
+        <option value="P">Perempuan</option>
+        <option value="L">Laki-laki</option>
       </select>
     </div>
   </div>
